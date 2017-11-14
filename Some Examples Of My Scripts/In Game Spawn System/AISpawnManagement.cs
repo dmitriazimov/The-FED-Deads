@@ -303,7 +303,6 @@ class AISpawnManagement : MonoBehaviour
             }
         }
     }   
-    
 
     Vector3 RepositionWayPoint(GameObject wayPoint)
     {
